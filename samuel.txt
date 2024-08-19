@@ -1,0 +1,3 @@
+hi my name is Samuel 
+i love c# 
+i love ef core 
